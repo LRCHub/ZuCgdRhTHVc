@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "DADDY ! DADDY ! DO !",
+  "base_artist": "Masayuki Suzuki",
+  "createdAt": "2025-12-10T13:50:19.902929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Things Your Daddy Wouldn't Want Us to Do",
+      "artist": "David Kersh",
+      "has_synced": true,
+      "path": "select/01_Things_Your_Daddy_Wouldn't_Want_Us_to_Do_David_Kersh.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Daddy Frank (The Guitar Man)",
+      "artist": "Merle Haggard & The Strangers",
+      "has_synced": false,
+      "path": "select/02_Daddy_Frank_(The_Guitar_Man)_Merle_Haggard_&_The_Strangers.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Daddy Never Was the Cadillac Kind (Remastered Album Version)",
+      "artist": "Confederate Railroad",
+      "has_synced": false,
+      "path": "select/03_Daddy_Never_Was_the_Cadillac_Kind_(Remastered_Album_Version)_Confederate_Railroad.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Daddy Never Was the Cadillac Kind (Remastered Version)",
+      "artist": "Confederate Railroad",
+      "has_synced": false,
+      "path": "select/04_Daddy_Never_Was_the_Cadillac_Kind_(Remastered_Version)_Confederate_Railroad.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Daddy Sang Bass",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/05_Daddy_Sang_Bass_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Daddy Sang Bass",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/06_Daddy_Sang_Bass_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Daddy Sang Bass (Album Version)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/07_Daddy_Sang_Bass_(Album_Version)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drive (For Daddy Gene)",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/08_Drive_(For_Daddy_Gene)_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Drive (For Daddy Gene)",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/09_Drive_(For_Daddy_Gene)_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Don't Call Him Daddy",
+      "artist": "Doug Supernaw",
+      "has_synced": true,
+      "path": "select/10_I_Don't_Call_Him_Daddy_Doug_Supernaw.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Only Daddy That'll Walk the Line",
+      "artist": "Waylon Jennings",
+      "has_synced": false,
+      "path": "select/11_Only_Daddy_That'll_Walk_the_Line_Waylon_Jennings.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sugar Daddy",
+      "artist": "The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/12_Sugar_Daddy_The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Daddy's Home",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_01_Daddy's_Home_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "DADDY ! DADDY ! DO ! (feat. 鈴木愛理)",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_02_DADDY_!_DADDY_!_DO_!_(feat._鈴木愛理)_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "DADDY! DADDY! DO! feat. 鈴木愛理",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_03_DADDY!_DADDY!_DO!_feat._鈴木愛理_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "DADDY! DADDY! DO! feat. 鈴木愛理 (TV Size Version)",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_04_DADDY!_DADDY!_DO!_feat._鈴木愛理_(TV_Size_Version)_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "DADDY ! DADDY ! DO ! feat. 鈴木愛理",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_05_DADDY_!_DADDY_!_DO_!_feat._鈴木愛理_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "DADDY ! DADDY ! DO ! - From THE FIRST TAKE",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_06_DADDY_!_DADDY_!_DO_!_-_From_THE_FIRST_TAKE_鈴木_雅之.txt"
+    }
+  ]
+}
